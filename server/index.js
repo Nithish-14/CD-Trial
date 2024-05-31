@@ -13,7 +13,7 @@ app.use("/admin", adminRouter)
 app.use("/user", userRouter)
 
 app.get("/", (req, res) => {
-    res.send("I'm Alive b***ch!!");
+    res.send("Itachi is invincible");
 })
 
 
